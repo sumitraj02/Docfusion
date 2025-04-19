@@ -1,0 +1,9 @@
+1st standalone server 
+then embedding generation
+then stor in minio
+Projects name: DocFusion-Automated Summurization of Mutidoc with PDF & Latex Format.
+milvus is vector databse
+
+28 march 2025
+
+
