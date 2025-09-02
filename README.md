@@ -31,7 +31,12 @@ Welcome to **DocFusion**, an intelligent and automated tool designed to **summar
 
 ## 📦 Installation
 
-```bash
 git clone https://github.com/your-username/DocFusion.git
 cd DocFusion
 pip install -r requirements.txt
+
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
